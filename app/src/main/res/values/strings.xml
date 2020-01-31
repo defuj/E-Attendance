@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Attendance</string>
+    <string name="API_KEY">AIzaSyBbcGRSGxlQ6iw8N08lp6MfxYGnCL7UWvc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

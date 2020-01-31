@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139811984328",
+    "firebase_url": "https://e-attendance-abefc.firebaseio.com",
+    "project_id": "e-attendance-abefc",
+    "storage_bucket": "e-attendance-abefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139811984328:android:775bf2df66399ba9e566fd",
+        "android_client_info": {
+          "package_name": "id.co.bigtek.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139811984328-856pd43no56h85r1r9ujons3qa2m9qr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.bigtek.attendance",
+            "certificate_hash": "09ca2e32901a8d9450c79e64ef4ce602b7ee90e3"
+          }
+        },
+        {
+          "client_id": "139811984328-u5rktncenn2v18ri89mgqj61o3cqenc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiLLeSr_05vp-8auyYJtIHV731YXfjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139811984328-u5rktncenn2v18ri89mgqj61o3cqenc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
